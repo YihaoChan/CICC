@@ -7,7 +7,7 @@ torch 1.7
 torchvision
 torchpruner==0.1
 thop
-pip install -e git+https://github.com/marcoancona/TorchPruner.git#egg=torchpruner
+pip3 install -e git+https://github.com/marcoancona/TorchPruner.git#egg=torchpruner
 ```
 
 ## Pipeline
@@ -88,5 +88,5 @@ Thank:
 
 [Zhishan Li](https://scholar.google.com/citations?user=zyGbNooAAAAJ&hl=en): My second supervisor!
 
-[Yingqing Yang](https://github.com/yingqing0317): Thank you for dragging me out when I was blue.
+[Yingqing Yang](https://github.com/yingqing0317): Thank you for pulling me out when I was blue.
 
