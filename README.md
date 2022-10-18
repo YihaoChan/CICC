@@ -20,7 +20,7 @@ The pipeline below is for ResNets on CIFAR10, but it is similar for other archit
 python3 train_eval.py --train-flag --network resnet20/resnet32/resnet56/resnet110
 ```
 
-Then the pretrained models are saved in the default directory `./trained_models`.
+Then the pretrained models are saved in the default directory `trained_models`.
 
 ### Calculate Shapley values of the pretrained models on CIFAR10.
 
