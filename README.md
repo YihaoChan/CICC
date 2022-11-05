@@ -87,5 +87,3 @@ Thank:
 [Guanzhong Tian](https://scholar.google.com/citations?user=0q-7PI4AAAAJ&hl=zh-CN): My supervisor.
 
 [Zhishan Li](https://scholar.google.com/citations?user=zyGbNooAAAAJ&hl=en): My second supervisor!
-
-[Yingqing Yang](https://github.com/yingqing0317): Thank you for pulling me out when I was blue.
